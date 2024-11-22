@@ -1,33 +1,33 @@
 
 
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://localhost:4000/</id>
+  <id>/blog/</id>
   <title>Chirpy</title>
   <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
-  <updated>2024-11-22T18:39:42+08:00</updated>
+  <updated>2024-11-22T18:58:41+08:00</updated>
   <author>
     <name>your_full_name</name>
-    <uri>http://localhost:4000/</uri>
+    <uri>/blog/</uri>
   </author>
-  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="self" type="application/atom+xml" href="/blog/feed.xml"/>
   <link rel="alternate" type="text/html" hreflang="en"
-    href="http://localhost:4000/"/>
+    href="/blog/"/>
   <generator uri="https://jekyllrb.com/" version="4.3.4">Jekyll</generator>
   <rights> © 2024 your_full_name </rights>
-  <icon>/assets/img/favicons/favicon.ico</icon>
-  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+  <icon>/blog/assets/img/favicons/favicon.ico</icon>
+  <logo>/blog/assets/img/favicons/favicon-96x96.png</logo>
 
 
   
   <entry>
     <title>Welcome to Jekyll!</title>
-    <link href="http://localhost:4000/posts/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" />
+    <link href="/blog/posts/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" />
     <published>2024-11-22T18:37:17+08:00</published>
   
-    <updated>2024-11-22T18:37:17+08:00</updated>
+    <updated>2024-11-22T18:42:55+08:00</updated>
   
-    <id>http://localhost:4000/posts/welcome-to-jekyll/</id>
-    <content type="text/html" src="http://localhost:4000/posts/welcome-to-jekyll/" />
+    <id>/blog/posts/welcome-to-jekyll/</id>
+    <content type="text/html" src="/blog/posts/welcome-to-jekyll/" />
     <author>
       <name>your_full_name</name>
     </author>
@@ -51,13 +51,13 @@ YEAR-MONTH-DAY-title.MAR...</summary>
   
   <entry>
     <title>Customize the Favicon</title>
-    <link href="http://localhost:4000/posts/customize-the-favicon/" rel="alternate" type="text/html" title="Customize the Favicon" />
+    <link href="/blog/posts/customize-the-favicon/" rel="alternate" type="text/html" title="Customize the Favicon" />
     <published>2019-08-11T00:34:00+08:00</published>
   
     <updated>2019-08-11T00:34:00+08:00</updated>
   
-    <id>http://localhost:4000/posts/customize-the-favicon/</id>
-    <content type="text/html" src="http://localhost:4000/posts/customize-the-favicon/" />
+    <id>/blog/posts/customize-the-favicon/</id>
+    <content type="text/html" src="/blog/posts/customize-the-favicon/" />
     <author>
       <name>cotes</name>
     </author>
@@ -81,13 +81,13 @@ Prepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, and th
   
   <entry>
     <title>Getting Started</title>
-    <link href="http://localhost:4000/posts/getting-started/" rel="alternate" type="text/html" title="Getting Started" />
+    <link href="/blog/posts/getting-started/" rel="alternate" type="text/html" title="Getting Started" />
     <published>2019-08-09T20:55:00+08:00</published>
   
     <updated>2019-08-09T20:55:00+08:00</updated>
   
-    <id>http://localhost:4000/posts/getting-started/</id>
-    <content type="text/html" src="http://localhost:4000/posts/getting-started/" />
+    <id>/blog/posts/getting-started/</id>
+    <content type="text/html" src="/blog/posts/getting-started/" />
     <author>
       <name>cotes</name>
     </author>
@@ -107,13 +107,13 @@ Prepare a square image (PNG, JPG, or SVG) with a size of 512x512 or more, and th
   
   <entry>
     <title>Writing a New Post</title>
-    <link href="http://localhost:4000/posts/write-a-new-post/" rel="alternate" type="text/html" title="Writing a New Post" />
+    <link href="/blog/posts/write-a-new-post/" rel="alternate" type="text/html" title="Writing a New Post" />
     <published>2019-08-08T14:10:00+08:00</published>
   
     <updated>2019-08-08T14:10:00+08:00</updated>
   
-    <id>http://localhost:4000/posts/write-a-new-post/</id>
-    <content type="text/html" src="http://localhost:4000/posts/write-a-new-post/" />
+    <id>/blog/posts/write-a-new-post/</id>
+    <content type="text/html" src="/blog/posts/write-a-new-post/" />
     <author>
       <name>cotes</name>
     </author>
@@ -137,13 +137,13 @@ Create a new file named YYYY-MM-DD-TITLE.EXTENSION and put it in the _posts of t
   
   <entry>
     <title>Text and Typography</title>
-    <link href="http://localhost:4000/posts/text-and-typography/" rel="alternate" type="text/html" title="Text and Typography" />
+    <link href="/blog/posts/text-and-typography/" rel="alternate" type="text/html" title="Text and Typography" />
     <published>2019-08-08T11:33:00+08:00</published>
   
     <updated>2019-08-08T11:33:00+08:00</updated>
   
-    <id>http://localhost:4000/posts/text-and-typography/</id>
-    <content type="text/html" src="http://localhost:4000/posts/text-and-typography/" />
+    <id>/blog/posts/text-and-typography/</id>
+    <content type="text/html" src="/blog/posts/text-and-typography/" />
     <author>
       <name>cotes</name>
     </author>
